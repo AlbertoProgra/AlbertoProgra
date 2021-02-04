@@ -5,4 +5,6 @@
 - ⚡ I have a fun fact to share us: El arte de programar es la correción de errores en el código.
 - 📫 Please follow me on : [**Code wars**](https://www.codewars.com/users/AlbertoProgra). 
 
-![No hay imagén para mostrar.](https://raw.githubusercontent.com/AlbertoProgra/AlbertoProgra/main/imagenV4.jpg)
+<p align="center">
+  <img width=100% height=100% src="![No hay imagén para mostrar.](https://raw.githubusercontent.com/AlbertoProgra/AlbertoProgra/main/imagenV4.jpg)">
+</p>
