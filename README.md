@@ -6,5 +6,5 @@
 - 📫 Please follow me on : [**Code wars**](https://www.codewars.com/users/AlbertoProgra). 
 
 <p align="center">
-  <img width=100% height=100% src="![No hay imagén para mostrar.](https://raw.githubusercontent.com/AlbertoProgra/AlbertoProgra/main/imagenV4.jpg)">
+  ![No hay imagén para mostrar.](https://raw.githubusercontent.com/AlbertoProgra/AlbertoProgra/main/imagenV4.jpg)
 </p>
