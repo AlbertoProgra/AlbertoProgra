@@ -6,6 +6,6 @@
 - 📫 Please follow me on : [**Code wars**](https://www.codewars.com/users/AlbertoProgra). 
 
 <p align="center">
-  <img width=80% height=80% src="https://raw.githubusercontent.com/AlbertoProgra/AlbertoProgra/main/V1.png">
+  <img width=80% height=80% src="https://raw.githubusercontent.com/AlbertoProgra/AlbertoProgra/main/v2.png">
 </p>
 
