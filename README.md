@@ -1,4 +1,4 @@
-### Hi everybody! 👋👨‍💻
+### Hi everyone! 👋👨‍💻
 
 - 🔭 I’m currently working with JavaScript, React and Postman.
 - 🌱 I’m also learning with: [**Core code**](https://www.core-code.io/) (a professional simulator) & if you want go & check it out.
